@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-OkeMettendorf&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/Metti"><img src="https://api.daily.dev/devcards/f68d1312c9c24a1eb02da998fc998c38.png?r=pq4" width="400" alt="Jan-Oke Mettendorf's Dev Card"/></a>
+<a href="https://app.daily.dev/Metti"><img src="https://api.daily.dev/devcards/f68d1312c9c24a1eb02da998fc998c38.png?r=pq4" width="250" alt="Jan-Oke Mettendorf's Dev Card"/></a>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
